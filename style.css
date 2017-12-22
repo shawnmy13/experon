@@ -677,7 +677,8 @@ li.pag-next {
 	transition: all 0.3s ease;
 }
 #logo h1 {
-	color: #B8B8B8;
+	/*color: #B8B8B8;*/
+	color: #FF0000;
 	font-size: 26px;
 	line-height: 1.4;
 	font-weight: 600;
